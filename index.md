@@ -17,3 +17,5 @@ Children of the community across all ages, can participate in a variety of activ
 
 ## Resources
   - Craft: Ashura Model (Days 2 - 6) : [[Worksheet](resources/CraftAshuraModelWorksheet.pdf)] 
+
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
