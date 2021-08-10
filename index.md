@@ -13,5 +13,5 @@ Children of the community across all ages, can participate in a variety of activ
   - Worksheet of Murahharm 2: [[Download](resources/Worksheet-Muharram2.pdf)]
 
 
-## Additional Resources
-  - Craft: Ashura Model : [[Worksheet](resources/CraftAshuraModelWorksheet.pdf)] [[Video](resources/CraftAshuraModelInstructions.mp4)]
+## Resources
+  - Craft: Ashura Model : [[Worksheet](resources/CraftAshuraModelWorksheet.pdf)] 
