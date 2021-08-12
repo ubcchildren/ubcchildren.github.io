@@ -15,6 +15,9 @@ Children of the community across all ages, can participate in a variety of activ
   - Worksheet of Murahharm (Day 2) : [[Download](resources/Worksheet-Muharram2.pdf)]
   - Craft: Ashura Model - Candles [[Video](resources/Day2-Candles.mp4)] [[Worksheet](resources/CraftAshuraModelWorksheet.pdf)] 
 
+#### Muharram 3 (August 11-12)
+  - Worksheet of Murahharm (Day 3) : [[Download](resources/Worksheet-Muharram3.pdf)]
+
 
 ## Resources
   - Craft: Ashura Model (Days 2 - 6) : [[Worksheet](resources/CraftAshuraModelWorksheet.pdf)] 
