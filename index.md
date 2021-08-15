@@ -27,6 +27,9 @@ Children of the community across all ages, can participate in a variety of activ
 #### Muharram 6 (August 14-15)
   - Craft: Ashura Model - Part3: Horse [[Video](resources/AshuraCraft-Part3-PalmTree.mp4)] [[Worksheet](resources/CraftAshuraModelWorksheet.pdf)] 
 
+#### Muharram 7 (August 15-16)
+  - Craft: Ashura Model - Part4: Cradle [[Video](resources/AshuraCraft-Part4-Cradle.mp4)] [[Worksheet](resources/CraftAshuraModelWorksheet.pdf)] 
+
 
 ## Resources
   - Craft: Ashura Model (Days 2 - 6) : [[Worksheet](resources/CraftAshuraModelWorksheet.pdf)] 
