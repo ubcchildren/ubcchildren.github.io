@@ -8,14 +8,17 @@ Children of the community across all ages, can participate in a variety of activ
 ## Craft: Ashura Model
 | | [[Download Ashura Model Worksheet](resources/CraftAshuraModelWorksheet.pdf)] | |
 |---|---|---|
-| [![Part1 - Candle](resources/thumbnails/AshouraCraft_Candle.png)](resources/AshuraCraft-Part1-Candle.mp4) | [![Part2 - Horse](resources/thumbnails/AshouraCraft_Horse.png)](resources/AshuraCraft-Part2-Horse.mp4) | [![Part3 - Palm Tree](resources/thumbnails/AshouraCraft_Tree.png)](resources/AshuraCraft-Part3-PalmTree.mp4) | 
-| [![Part4 - Cradle](resources/thumbnails/AshouraCraft_Cradle.png)](resources/AshuraCraft-Part4-Cradle.mp4) | [![Part5 - Tent](resources/thumbnails/AshouraCraft_Tent.png)](resources/AshuraCraft-Part5-Tent.mp4) | ![Final](resources/thumbnails/AshouraCraft_Final.png) |
+| [![Final](resources/thumbnails/AshouraCraft_Final.png)](resources/AshuraCraft-Final.mp4) | [![Part1 - Candle](resources/thumbnails/AshouraCraft_Candle.png)](resources/AshuraCraft-Part1-Candle.mp4) | [![Part2 - Horse](resources/thumbnails/AshouraCraft_Horse.png)](resources/AshuraCraft-Part2-Horse.mp4) | 
+| [![Part3 - Palm Tree](resources/thumbnails/AshouraCraft_Tree.png)](resources/AshuraCraft-Part3-PalmTree.mp4) | [![Part4 - Cradle](resources/thumbnails/AshouraCraft_Cradle.png)](resources/AshuraCraft-Part4-Cradle.mp4) | [![Part5 - Tent](resources/thumbnails/AshouraCraft_Tent.png)](resources/AshuraCraft-Part5-Tent.mp4) |
+
+
 ## Worksheets
 
-| | | |
+| [![ColoredFlagsSet1](resources/ColoredFlagsSet1.png)](resources/ColoredFlagsSet1.pdf) | [![ColoredFlagsSet2_Color](resources/ColoredFlagsSet2_Color.png)](resources/ColoredFlagsSet2_Color.pdf) | [![ColoredFlagsSet2_BW](resources/ColoredFlagsSet2_BW.png)](resources/ColoredFlagsSet2_BW.pdf) |
 |---|---|---|
-|[[Colored Flags Set 1](resources/ColoredFlagsSet1.pdf)] | [[Colored Flags  Set 2](resources/ColoredFlagsSet2.pdf)] | [[Muharram3](resources/Worksheet-Muharram2.pdf)]
-| [[Muharram3](resources/Worksheet-Muharram3.pdf)] | [[Muharram5](resources/Worksheet-Muharram5.pdf)] | |
+| [![Worksheet1-KeepingPromises](resources/Worksheet1-KeepingPromises.png)](resources/Worksheet1-KeepingPromises.pdf) | [![Worksheet2-TryAgain](resources/Worksheet2-TryAgain.png)](resources/Worksheet2-TryAgain.pdf) | [![Worksheet3-BeingCourageous](resources/Worksheet3-BeingCourageous.png)](resources/Worksheet3-BeingCourageous.pdf) |
+| [![Worksheet4-NothingButBeauty](resources/Worksheet4-NothingButBeauty.png)](resources/Worksheet4-NothingButBeauty.pdf) | [![Worksheet5-GoodFriends](resources/Worksheet5-GoodFriends.png)](resources/Worksheet5-GoodFriends.pdf) | [![Worksheet6-FortheSakeOfAllah](resources/Worksheet6-FortheSakeOfAllah.png)](resources/Worksheet6-FortheSakeOfAllah.pdf) |
+
 
 ## Other Activities
  - Video & Quizz: The Master of Martyrs,  by Sheikh Azhar: [Submission Form](https://docs.google.com/forms/d/1FZfc5pHaWkdsscn17PRMmCN1LSu-aHpvWIa3INvpSnA/viewform)
