@@ -6,6 +6,7 @@
 Children of the community across all ages, can participate in a variety of activities and win prizes. For easier documentation of these activities you may submit your works by filling out the activity log below: <br>[[Activity Log](https://docs.google.com/forms/d/e/1FAIpQLSc0Z7QxUzyX_GphQiOimVXjmbL5FIfeMFUFv-qATAEWCSzg_w/viewform)]
 
 ## Craft: Ashura Model
+
 | | [[Download Ashura Model Worksheet](resources/CraftAshuraModelWorksheet.pdf)] | |
 |---|---|---|
 | [![Final](resources/thumbnails/AshouraCraft_Final.png)](resources/AshuraCraft-Final.mp4) | [![Part1 - Candle](resources/thumbnails/AshouraCraft_Candle.png)](resources/AshuraCraft-Part1-Candle.mp4) | [![Part2 - Horse](resources/thumbnails/AshouraCraft_Horse.png)](resources/AshuraCraft-Part2-Horse.mp4) | 
