@@ -2,39 +2,30 @@
  
 
 
-## Activities
+## Activity Log
 Children of the community across all ages, can participate in a variety of activities and win prizes. For easier documentation of these activities you may submit your works by filling out the activity log below: <br>[[Activity Log](https://docs.google.com/forms/d/e/1FAIpQLSc0Z7QxUzyX_GphQiOimVXjmbL5FIfeMFUFv-qATAEWCSzg_w/viewform)]
 
-#### Muharram 1 (August 9-10)
-  - Reciting Salaam of Imam Hussain.
-  - Preparing a location in your home for Muharram:
-    - Colored Flags: [[Set 1](resources/ColoredFlagsSet1.pdf)] [[Set 2](resources/ColoredFlagsSet2.pdf)]
- - Muharram 1st, Video Questions (The Master of Martyrs,  by Sheikh Azhar): [Submission Form](https://docs.google.com/forms/d/1FZfc5pHaWkdsscn17PRMmCN1LSu-aHpvWIa3INvpSnA/viewform)
+## Craft: Ashura Model
+| | [[Download Ashura Model Worksheet](resources/CraftAshuraModelWorksheet.pdf)] | |
+|---|---|---|
+| [![Part1 - Candle](resources/thumbnails/AshouraCraft_Candle.png)](resources/AshuraCraft-Part1-Candle.mp4) | [![Part2 - Horse](resources/thumbnails/AshouraCraft_Horse.png)](resources/AshuraCraft-Part2-Horse.mp4) | [![Part3 - Palm Tree](resources/thumbnails/AshouraCraft_Tree.png)](resources/AshuraCraft-Part3-PalmTree.mp4) | 
+| [![Part4 - Cradle](resources/thumbnails/AshouraCraft_Cradle.png)](resources/AshuraCraft-Part4-Cradle.mp4) | [![Part5 - Tent](resources/thumbnails/AshouraCraft_Tent.png)](resources/AshuraCraft-Part5-Tent.mp4) | ![Final](resources/thumbnails/AshouraCraft_Final.png) |
+## Worksheets
 
-#### Muharram 2 (August 10-11)
-  - Worksheet of Murahharm (Day 2) : [[Download](resources/Worksheet-Muharram2.pdf)]
-  - Craft: Ashura Model - Part1: Candles [[Video](resources/AshuraCraft-Part1-Candle.mp4)] [[Worksheet](resources/CraftAshuraModelWorksheet.pdf)] 
+| | | |
+|---|---|---|
+|[[Colored Flags Set 1](resources/ColoredFlagsSet1.pdf)] | [[Colored Flags  Set 2](resources/ColoredFlagsSet2.pdf)] | [[Muharram3](resources/Worksheet-Muharram2.pdf)]
+| [[Muharram3](resources/Worksheet-Muharram3.pdf)] | [[Muharram5](resources/Worksheet-Muharram5.pdf)] | |
 
-#### Muharram 3 (August 11-12)
-  - Worksheet of Murahharm (Day 3) : [[Download](resources/Worksheet-Muharram3.pdf)]
-
-#### Muharram 4 (August 12-13)
-  - Craft: Ashura Model - Part2: Horse [[Video](resources/AshuraCraft-Part2-Horse.mp4)] [[Worksheet](resources/CraftAshuraModelWorksheet.pdf)] 
-
-#### Muharram 5 (August 13-14)
-  - Worksheet of Murahharm (Day 5) : [[Download](resources/Worksheet-Muharram5.pdf)]
-
-#### Muharram 6 (August 14-15)
-  - Craft: Ashura Model - Part3: Horse [[Video](resources/AshuraCraft-Part3-PalmTree.mp4)] [[Worksheet](resources/CraftAshuraModelWorksheet.pdf)] 
-
-#### Muharram 7 (August 15-16)
-  - Craft: Ashura Model - Part4: Cradle [[Video](resources/AshuraCraft-Part4-Cradle.mp4)] [[Worksheet](resources/CraftAshuraModelWorksheet.pdf)] 
+## Other Activities
+ - Video & Quizz: The Master of Martyrs,  by Sheikh Azhar: [Submission Form](https://docs.google.com/forms/d/1FZfc5pHaWkdsscn17PRMmCN1LSu-aHpvWIa3INvpSnA/viewform)
+ - Reciting Salaam of Imam Hussain.
+ - Preparing a location in your home for Muharram:
 
 
-## Resources
-  - Craft: Ashura Model (Days 2 - 6) : [[Worksheet](resources/CraftAshuraModelWorksheet.pdf)] 
+## Media
 
-## Mariyeh's Letters
+### Mariyeh's Letters
 
 |  |  |  |
 |---|---|---|
