@@ -3,7 +3,9 @@
 
 
 ## Activity Log
-Children of the community across all ages, can participate in a variety of activities and win prizes. For easier documentation of these activities you may submit your works by filling out the activity log below: <br>[[Activity Log](https://docs.google.com/forms/d/e/1FAIpQLSc0Z7QxUzyX_GphQiOimVXjmbL5FIfeMFUFv-qATAEWCSzg_w/viewform)]
+Children of the community across all ages, can participate in a variety of activities and win prizes. For easier documentation of these activities you may submit your works by filling out the activity log below: <br>
+
+#### [Fill out the Activity Log and Win Prizes! ](https://docs.google.com/forms/d/e/1FAIpQLSc0Z7QxUzyX_GphQiOimVXjmbL5FIfeMFUFv-qATAEWCSzg_w/viewform)
 
 ## Craft: Ashura Model
 
