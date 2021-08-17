@@ -21,7 +21,7 @@ Children of the community across all ages, can participate in a variety of activ
 
 
 ## Other Activities
- - Video & Quizz: The Master of Martyrs,  by Sheikh Azhar: [Submission Form](https://docs.google.com/forms/d/1FZfc5pHaWkdsscn17PRMmCN1LSu-aHpvWIa3INvpSnA/viewform)
+ - Video: The Master of Martyrs,  by Sheikh Azhar: [Quiz](https://docs.google.com/forms/d/1FZfc5pHaWkdsscn17PRMmCN1LSu-aHpvWIa3INvpSnA/viewform)
  - Reciting Salaam of Imam Hussain.
  - Preparing a location in your home for Muharram:
 
