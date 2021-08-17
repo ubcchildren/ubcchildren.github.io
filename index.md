@@ -6,16 +6,19 @@
 Children of the community across all ages, can participate in a variety of activities and win prizes. For easier documentation of these activities you may submit your works by filling out the activity log below: <br>
 
 #### [Fill out the Activity Log and Win Prizes! ](https://docs.google.com/forms/d/e/1FAIpQLSc0Z7QxUzyX_GphQiOimVXjmbL5FIfeMFUFv-qATAEWCSzg_w/viewform)
+  - <font color="red">Deadline: Thursday August 19th at 12pm (Ashoura noon)</font>
 
-## Craft: Ashura Model
+## Activities
 
-| | [[Download Ashura Model Worksheet](resources/CraftAshuraModelWorksheet.pdf)] | |
+### Craft: Ashura Model
+
+| | [Download Ashura Model Workbook](resources/CraftAshuraModelWorksheet.pdf) | |
 |---|---|---|
 | [![Final](resources/thumbnails/AshouraCraft_Final.png)](resources/AshuraCraft-Final.mp4) | [![Part1 - Candle](resources/thumbnails/AshouraCraft_Candle.png)](resources/AshuraCraft-Part1-Candle.mp4) | [![Part2 - Horse](resources/thumbnails/AshouraCraft_Horse.png)](resources/AshuraCraft-Part2-Horse.mp4) | 
 | [![Part3 - Palm Tree](resources/thumbnails/AshouraCraft_Tree.png)](resources/AshuraCraft-Part3-PalmTree.mp4) | [![Part4 - Cradle](resources/thumbnails/AshouraCraft_Cradle.png)](resources/AshuraCraft-Part4-Cradle.mp4) | [![Part5 - Tent](resources/thumbnails/AshouraCraft_Tent.png)](resources/AshuraCraft-Part5-Tent.mp4) |
 
 
-## Worksheets
+### Worksheets
 
 | [![ColoredFlagsSet1](resources/ColoredFlagsSet1.png)](resources/ColoredFlagsSet1.pdf) | [![ColoredFlagsSet2_Color](resources/ColoredFlagsSet2_Color.png)](resources/ColoredFlagsSet2_Color.pdf) | [![ColoredFlagsSet2_BW](resources/ColoredFlagsSet2_BW.png)](resources/ColoredFlagsSet2_BW.pdf) |
 |---|---|---|
@@ -23,10 +26,11 @@ Children of the community across all ages, can participate in a variety of activ
 | [![Worksheet4-NothingButBeauty](resources/Worksheet4-NothingButBeauty.png)](resources/Worksheet4-NothingButBeauty.pdf) | [![Worksheet5-GoodFriends](resources/Worksheet5-GoodFriends.png)](resources/Worksheet5-GoodFriends.pdf) | [![Worksheet6-FortheSakeOfAllah](resources/Worksheet6-FortheSakeOfAllah.png)](resources/Worksheet6-FortheSakeOfAllah.pdf) |
 
 
-## Other Activities
- - Video: The Master of Martyrs,  by Sheikh Azhar: [Quiz](https://docs.google.com/forms/d/1FZfc5pHaWkdsscn17PRMmCN1LSu-aHpvWIa3INvpSnA/viewform)
+### Other Activities
  - Reciting Salaam of Imam Hussain.
- - Preparing a location in your home for Muharram:
+ - Preparing a location in your home for Muharram.
+ - Video: The Master of Martyrs,  by Sheikh Azhar: [Quiz](https://docs.google.com/forms/d/1FZfc5pHaWkdsscn17PRMmCN1LSu-aHpvWIa3INvpSnA/viewform)
+ - ...
 
 
 ## Media
