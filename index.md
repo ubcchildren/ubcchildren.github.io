@@ -8,6 +8,8 @@ Birth of Prophet Muhammad (S.A.) and Imam Ja'far Saadiq (A.S.).
 - [Black and White](resources/Craft_RahmatanLilAalameen_BW.pdf)
 
 
+[![Craft_RahmatanLilAalameen](resources/thumbnails/Craft_RahmatanLilAalameen.png)](resources/Craft_RahmatanLilAalameen.mp4)
+
 
 ## Muharram 1443
 
