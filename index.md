@@ -1,8 +1,9 @@
 # UBC Youth and Children Programs
 
 
-## Birth of Prophet Muhammad (S.A.) and Imam Ja'far Saadiq (A.S.). 17th or RabiulAwwal 1443
-### Worksheets
+## 17th of Rabee'ul-Awwal 1443
+Birth of Prophet Muhammad (S.A.) and Imam Ja'far Saadiq (A.S.). 
+### Craft Worksheets
 - [Color](resources/Craft_RahmatanLilAalameen_Color.pdf)
 - [Black and White](resources/Craft_RahmatanLilAalameen_BW.pdf)
 
