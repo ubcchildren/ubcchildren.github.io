@@ -3,7 +3,7 @@
 
 ## 17th of Rabee'ul-Awwal 1443
 Birth of Prophet Muhammad (S.A.) and Imam Ja'far Saadiq (A.S.). 
-### Craft Worksheets
+### Craft: Merci to all the Worlds (Rahmatan Lil Aalameen): 
 - [Color](resources/Craft_RahmatanLilAalameen_Color.pdf)
 - [Black and White](resources/Craft_RahmatanLilAalameen_BW.pdf)
 
