@@ -1,12 +1,14 @@
-# Muharram 1443
+# UBC Youth and Children Programs
 
-## Activity Log
-Children of the community across all ages, can participate in a variety of activities and win prizes. For easier documentation of these activities you may submit your works by filling out the activity log below: <br>
 
-#### [Fill out the Activity Log and Win Prizes! ](https://docs.google.com/forms/d/e/1FAIpQLSc0Z7QxUzyX_GphQiOimVXjmbL5FIfeMFUFv-qATAEWCSzg_w/viewform)
-  - <font color="red">Deadline: Thursday August 19th at 12pm (Ashoura noon)</font>
+## Birth of Prophet Muhammad (S.A.) and Imam Ja'far Saadiq (A.S.). 17th or RabiulAwwal 1443
+### Worksheets
+- [Color](resources/Craft_RahmatanLilAalameen_Color.pdf)
+- [Black and White](resources/Craft_RahmatanLilAalameen_BW.pdf)
 
-## Activities
+
+
+## Muharram 1443
 
 ### Craft: Ashura Model
 
