@@ -5,7 +5,7 @@ Birth of Lady Fatimah Zahra (S.A.)
 ### Craft: Mother's day gift: 
 
 | **Video** | **Worksheet** |
-| [![Craft_MothersDay](resources/thumbnails/Craft_MothersDay.png)](resources/Craft_MothersDay.mp4) | [![Craft_MothersDay](resources/thumbnails/Craft_MothersDayWorksheet.png)](resources/Craft_MothersDayWorksheet.pdf) |  |
+| [![Craft_MothersDay](resources/thumbnails/Craft_MothersDay.png)](resources/Craft_MothersDay.mp4) | [![Craft_MothersDay](resources/thumbnails/Craft_MothersDayWorksheet.png)](resources/Craft_MothersDayWorksheet.pdf) |
 
 
 ## 17th of Rabee'ul-Awwal 1443
