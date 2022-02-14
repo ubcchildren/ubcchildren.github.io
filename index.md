@@ -1,5 +1,12 @@
 # UBC Youth and Children Programs
 
+## 13th of Rajab 1443
+Birth of Imam Ali (A.S.)
+### Craft: Yaa Ali Decorations: 
+
+| **Worksheet (Color)** | **Worksheet (B&W)** | **Video** |
+| [![Craft_YaaAli](resources/thumbnails/Craft_YaaAli_Color.png)](resources/Craft_YaaAli_Color.pdf) | [![Craft_YaaAli](resources/thumbnails/Craft_YaaAli_BW.png)](resources/Craft_YaaAli_BW.pdf) | |
+
 ## 20th of Jamadi al-Thani 1443
 Birth of Lady Fatimah Zahra (S.A.)
 ### Craft: Mother's day gift: 
